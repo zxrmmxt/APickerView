@@ -1,4 +1,4 @@
-package com.xt.m_picker_view.address_select;
+package com.xt.a_picker_view.address_select;
 
 import android.content.Context;
 import android.content.res.AssetManager;

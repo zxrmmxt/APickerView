@@ -1,4 +1,4 @@
-package com.xt.m_picker_view;
+package com.xt.a_picker_view;
 
 import org.junit.Test;
 
